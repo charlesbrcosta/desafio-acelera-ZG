@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Roboto&display=swap" rel="stylesheet">
+        <title>Calcula o custo da compra de maçãs</title>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <header>          
+            <h1>Custo total das compras</h1>  
+        </header>     
+            <main>       
+                <input 
+                    type="text" 
+                    id="quantityApples" 
+                    placeholder="Digite aqui a quantidade de maçãs que deseja comprar" 
+                    alt="Digite aqui a quantidade de maçãs que deseja comprar. Tem que ser um número maior que zero" 
+                />            
+                <button onclick="viewCalculateCost()">Calcular</button>                   
+            </main>
+            <div class="contentCalc">
+                <p id="subTotal">Subtotal</p>
+                <p id="unitaryValue"></p>
+                <p id="result"></p> 
+            </div>
+            <footer>
+                <p>&copy Charles Bruno</p>
+            </footer>
+        </div>
+    </body>
+</html>
