@@ -19,4 +19,4 @@
 
 
 <h3>Desafio - Acelerea ZG 5.0</h3>
-<img src="./assets/tela-home.png">
+<img src="./assets/home.png">
