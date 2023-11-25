@@ -15,7 +15,7 @@
 
 <h3>Funcionamento do projeto</h4>
 
-<p>Para a visualização e o funcionamento do projeto <strong>gupy-desafio</strong>, basta abrir o arquivo index.html. Caso esteja utilizado o Visual Studio Code, você pode instalar a <strong>extensão live server;</strong> após a instalação, clique com o botão direito em cima do <strong>index.html</strong> e escolha a opção <strong>Open with live server para abrir o projeto</strong></p>
+<p>Para a visualização e o funcionamento do projeto <strong>gupy-desafio</strong>basta instalar a <strong>extensão live server;</strong> após a instalação, clique com o botão direito em cima do <strong>index.html</strong> e escolha a opção <strong>Open with live server para abrir o projeto</strong></p>
 
 
 <h3>Desafio - Acelerea ZG 5.0</h3>
